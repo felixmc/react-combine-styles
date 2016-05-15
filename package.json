@@ -1,0 +1,30 @@
+{
+  "name": "react-combine-styles",
+  "version": "1.0.2",
+  "description": "A simple utility for conditionally combining react native styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixmc/react-combine-styles.git"
+  },
+  "keywords": [
+    "utility",
+    "util",
+    "styles",
+    "css",
+    "react",
+    "native"
+  ],
+  "author": "Felix Milea-Ciobanu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felixmc/react-combine-styles/issues"
+  },
+  "homepage": "https://github.com/felixmc/react-combine-styles#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
